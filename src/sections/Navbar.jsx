@@ -8,7 +8,11 @@ const Navbar = () => {
           </a>
 
           <button>
-            <img src={} />
+            <img
+              src={"assets/menu.svg"}
+              alt="toggle"
+              className="w-6 h-6"
+            />
           </button>
         </div>
       </div>
