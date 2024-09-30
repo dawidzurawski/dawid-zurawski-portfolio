@@ -4,7 +4,7 @@ const Clients = () => {
   return (
     <section className="c-space my-20">
       <h3 className="head-text">
-        Hear from My Clients
+        Hear from my previous colleagues
       </h3>
 
       <div className="client-container">
@@ -17,7 +17,7 @@ const Clients = () => {
 
               <div className="client-content">
                 <div className="flex gap-3">
-                  <img src={img} alt={name} className="w-12 h-12 rounded-full" />
+                  {/* <img src={img} alt={name} className="w-12 h-12 rounded-full" /> */}
                   <div className="flex flex-col">
                     <p className="font-semibold text-white-800">
                       {name}
