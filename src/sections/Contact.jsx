@@ -110,7 +110,7 @@ const Contact = () => {
                 required
                 rows={5}
                 className="field-input"
-                placeholder="Hi, I wanna give you a job..."
+                placeholder="Hi, let's talk about..."
               />
             </label>
 
